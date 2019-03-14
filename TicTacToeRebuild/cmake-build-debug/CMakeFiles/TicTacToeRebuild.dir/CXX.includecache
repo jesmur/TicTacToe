@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ITY2/PROG2100/CLion/Assignments/Assignment1/TicTacToe/TicTacToeRebuild/Game.cpp
+Game.h
+E:/ITY2/PROG2100/CLion/Assignments/Assignment1/TicTacToe/TicTacToeRebuild/Game.h
+iostream
+-
+string
+-
+vector
+-
+limits
+-
+regex
+-
+
+E:/ITY2/PROG2100/CLion/Assignments/Assignment1/TicTacToe/TicTacToeRebuild/Game.h
+
+E:/ITY2/PROG2100/CLion/Assignments/Assignment1/TicTacToe/TicTacToeRebuild/main.cpp
+iostream
+-
+string
+-
+Game.h
+E:/ITY2/PROG2100/CLion/Assignments/Assignment1/TicTacToe/TicTacToeRebuild/Game.h
+
